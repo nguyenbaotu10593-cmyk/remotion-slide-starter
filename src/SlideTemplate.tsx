@@ -16,8 +16,9 @@
 export const SLIDE_DATA = {
   number: 1,
   segments: [
-    { text: "Điểm vượt trội của AI agent so với\nnhững mô hình " },
-    { text: "AI chat bình thường", highlight: true },
+    { text: "Thiên đã mất tối thiểu 4 năm để xây dựng các " },
+    { text: "phương pháp học", highlight: true },
+    { text: " cho riêng mình." },
   ],
 };
 // ─────────────────────────────────────────────────────────────────────────────
